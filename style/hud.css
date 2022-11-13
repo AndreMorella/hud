@@ -26,7 +26,7 @@
 }
 
 .background__gunid {
-	background: url('../image/guns/0.png');
+	background: url('../image/guns/.png');
 	width: 100px;
 	height: 100px;
 	background-size: 100px !important;
@@ -81,7 +81,7 @@
 }
 
 .background__wanted {
-    background: url(../image/wanted/wanted-0.png) no-repeat center center;
+    background: url(../image/wanted/.png) no-repeat center center;
     width: 100px;
     height: 230px;
     background-size: 100px !important;
